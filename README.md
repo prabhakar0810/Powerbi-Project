@@ -5,7 +5,7 @@ This project is a data visualization and analysis solution built in Power BI, fo
 
 - **Comparative Analysis**: Compare income and work hours across different years and months.
 - **Employer Breakdown**: Detailed insights into earnings and hours worked for each employer.
-- **Time Off Tracking**: Visualize holidays and days off taken throughout the year.
+
 
 
 📊 Tools Used Power BI – For building the interactive dashboard
