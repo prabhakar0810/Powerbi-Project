@@ -8,5 +8,5 @@ This project is a data visualization and analysis solution built in Power BI, fo
 
 
 
-📊 Tools Used Power BI – For building the interactive dashboard
+📊 Tools Used: Power BI 
 📁 Dataset Source: UCI Adult Income Dataset
